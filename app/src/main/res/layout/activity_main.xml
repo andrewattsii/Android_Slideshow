@@ -14,7 +14,7 @@
         app:srcCompat="@drawable/slide_1" />
 
     <Button
-        android:id="@+id/next_btn"
+        android:id="@+id/previous_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
@@ -23,7 +23,7 @@
         android:textColor="#fff" />
 
     <Button
-        android:id="@+id/previous_btn"
+        android:id="@+id/next_btn"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_alignParentRight="true"
